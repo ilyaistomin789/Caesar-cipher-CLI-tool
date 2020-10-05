@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47c92c4d-e83e-42f6-9802-4f0204bf64b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iPYVArvkQuOfNWBSu77ibXX3Y9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Third_Course/Materials/Caesar-cipher-CLI-tool-master" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.my_caesar_cli.js">
+    <configuration name="caesar.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="caesar.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="my_caesar_cli.js" type="NodeJSConfigurationType" application-parameters="--action decode --shift 1000 --input 1.txt --output" nameIsGenerated="true" path-to-js-file="my_caesar_cli.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.my_caesar_cli.js" />
+      <item itemvalue="Node.js.caesar.js" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47c92c4d-e83e-42f6-9802-4f0204bf64b2" name="Default Changelist" comment="" />
+      <created>1601810714523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601810714523</updated>
+      <workItem from="1601810715535" duration="16950000" />
+      <workItem from="1601830807073" duration="5102000" />
+      <workItem from="1601887359688" duration="5372000" />
+      <workItem from="1601919751678" duration="3453000" />
+      <workItem from="1601924004124" duration="21000" />
+      <workItem from="1601924226977" duration="580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1601815180381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601815180381" />
+    <state x="533" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601924272402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="533" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601924272402" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1601924023855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601924023855" />
+    <state width="1899" height="211" key="GridCell.Tab.0.bottom" timestamp="1601924814963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601924814963" />
+    <state width="1899" height="211" key="GridCell.Tab.0.center" timestamp="1601924814963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601924814963" />
+    <state width="1899" height="211" key="GridCell.Tab.0.left" timestamp="1601924814963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601924814963" />
+    <state width="1899" height="211" key="GridCell.Tab.0.right" timestamp="1601924814963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601924814963" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1601923223989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223989" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1601923223989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223989" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1601923223989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223989" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1601923223989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223989" />
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1601923223990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223990" />
+    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1601923223990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223990" />
+    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1601923223989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223989" />
+    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1601923223990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223990" />
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom" timestamp="1601923223990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223990" />
+    <state width="1899" height="348" key="GridCell.Tab.3.center" timestamp="1601923223990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223990" />
+    <state width="1899" height="348" key="GridCell.Tab.3.left" timestamp="1601923223990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223990" />
+    <state width="1899" height="348" key="GridCell.Tab.3.right" timestamp="1601923223990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601923223990" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/caesar.js</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/caesar.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my_caesar_cli.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/caesar.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my_caesar_cli.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
